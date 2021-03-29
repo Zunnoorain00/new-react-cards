@@ -23,6 +23,96 @@ const Sdata = [
         title:"A Netflix Original Series",
         sname:"Mank",
         link:"https://www.netflix.com/pk/title/81117189"
+    },
+    {
+        imgsrc:"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXZbd2x297duaG3eF3FLqRgpnURV3LooxPkHmyJ4t6p-YqZdy8",
+        title:"A Netflix Original Series",
+        sname:"Mank",
+        link:"https://www.netflix.com/pk/title/81117189"
+    },
+    {
+        imgsrc:"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXZbd2x297duaG3eF3FLqRgpnURV3LooxPkHmyJ4t6p-YqZdy8",
+        title:"A Netflix Original Series",
+        sname:"Mank",
+        link:"https://www.netflix.com/pk/title/81117189"
+    },
+    {
+        imgsrc:"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXZbd2x297duaG3eF3FLqRgpnURV3LooxPkHmyJ4t6p-YqZdy8",
+        title:"A Netflix Original Series",
+        sname:"Mank",
+        link:"https://www.netflix.com/pk/title/81117189"
+    },
+    {
+        imgsrc:"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXZbd2x297duaG3eF3FLqRgpnURV3LooxPkHmyJ4t6p-YqZdy8",
+        title:"A Netflix Original Series",
+        sname:"Mank",
+        link:"https://www.netflix.com/pk/title/81117189"
+    },
+    {
+        imgsrc:"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXZbd2x297duaG3eF3FLqRgpnURV3LooxPkHmyJ4t6p-YqZdy8",
+        title:"A Netflix Original Series",
+        sname:"Mank",
+        link:"https://www.netflix.com/pk/title/81117189"
+    },
+    {
+        imgsrc:"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXZbd2x297duaG3eF3FLqRgpnURV3LooxPkHmyJ4t6p-YqZdy8",
+        title:"A Netflix Original Series",
+        sname:"Mank",
+        link:"https://www.netflix.com/pk/title/81117189"
+    },
+    {
+        imgsrc:"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXZbd2x297duaG3eF3FLqRgpnURV3LooxPkHmyJ4t6p-YqZdy8",
+        title:"A Netflix Original Series",
+        sname:"Mank",
+        link:"https://www.netflix.com/pk/title/81117189"
+    },
+    {
+        imgsrc:"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXZbd2x297duaG3eF3FLqRgpnURV3LooxPkHmyJ4t6p-YqZdy8",
+        title:"A Netflix Original Series",
+        sname:"Mank",
+        link:"https://www.netflix.com/pk/title/81117189"
+    },
+    {
+        imgsrc:"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXZbd2x297duaG3eF3FLqRgpnURV3LooxPkHmyJ4t6p-YqZdy8",
+        title:"A Netflix Original Series",
+        sname:"Mank",
+        link:"https://www.netflix.com/pk/title/81117189"
+    },
+    {
+        imgsrc:"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXZbd2x297duaG3eF3FLqRgpnURV3LooxPkHmyJ4t6p-YqZdy8",
+        title:"A Netflix Original Series",
+        sname:"Mank",
+        link:"https://www.netflix.com/pk/title/81117189"
+    },
+    {
+        imgsrc:"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXZbd2x297duaG3eF3FLqRgpnURV3LooxPkHmyJ4t6p-YqZdy8",
+        title:"A Netflix Original Series",
+        sname:"Mank",
+        link:"https://www.netflix.com/pk/title/81117189"
+    },
+    {
+        imgsrc:"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXZbd2x297duaG3eF3FLqRgpnURV3LooxPkHmyJ4t6p-YqZdy8",
+        title:"A Netflix Original Series",
+        sname:"Mank",
+        link:"https://www.netflix.com/pk/title/81117189"
+    },
+    {
+        imgsrc:"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXZbd2x297duaG3eF3FLqRgpnURV3LooxPkHmyJ4t6p-YqZdy8",
+        title:"A Netflix Original Series",
+        sname:"Mank",
+        link:"https://www.netflix.com/pk/title/81117189"
+    },
+    {
+        imgsrc:"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXZbd2x297duaG3eF3FLqRgpnURV3LooxPkHmyJ4t6p-YqZdy8",
+        title:"A Netflix Original Series",
+        sname:"Mank",
+        link:"https://www.netflix.com/pk/title/81117189"
+    },
+    {
+        imgsrc:"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXZbd2x297duaG3eF3FLqRgpnURV3LooxPkHmyJ4t6p-YqZdy8",
+        title:"A Netflix Original Series",
+        sname:"Mank",
+        link:"https://www.netflix.com/pk/title/81117189"
     }
     
 ]
